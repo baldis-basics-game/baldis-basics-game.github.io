@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://baldis-basics-game.github.io/sitemap.xml
